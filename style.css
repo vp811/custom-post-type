@@ -1,0 +1,42 @@
+/*
+Theme Name: Spring Live Theme
+Author: Efren Vasquez
+Description: Live Class Theme
+Version: 1.0
+License: Open
+Theme Domain: spring-2020
+*/
+
+h1 {
+    color: green;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.col-md-4 {
+    margin: 30px 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+header {
+    background: #333;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+}
+
+header a {
+  color: white;
+}
+
+footer {
+    margin-top: 2rem;
+    padding: 3rem 0;
+    background: #333;
+    color: white;
+    text-align: center;
+}
